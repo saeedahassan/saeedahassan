@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themanonmoon90
 - 👀 I’m interested in Mobile & Web Development,Cloud Computing,Information Security,and AI/Machine Learning/Deep Learning.
-- 🌱 I’m currently learning GCP, OSINT, React Native & Rust
+- 🌱 I’m currently exploring Microsoft Power BI, OSINT, React Native & Amazon AWS EC2
 - 📫 How to reach me eng.saeed-hassan@outlook.com
 
 <!---
