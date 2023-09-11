@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saeedahassan
-- 👀 I’m interested in Mobile & Web Development,Cloud Computing,Information Security,AI/Machine Learning/Deep Learning.
+- 👀 I’m interested in Mobile & Web Development,Data Science & Analysis,Information Security,AI/Machine Learning/Deep Learning.
 - 🌱 I’m currently exploring Tableau, Quantum Computation & Project Management.
 - 📫 How to reach me eng.saeed-hassan@outlook.com
 
