@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeedahassan
-- 👀 I’m interested in Mobile & Web Development,Data Science & Data Analysis,Information Security,Machine Learning & Deep Learning.
-- 🌱 I’m currently exploring Tableau, Quantum Computation & Project Management.
+- 👀 I’m interested in Mobile & Web Development,Data Science & Data Analysis,Information Security,Quantum Computation, Machine Learning & Deep Learning.
+- 🌱 I’m currently exploring Tableau, Generative AI & Project Management.
 - 📫 How to reach me eng.saeed-hassan@outlook.com, you can also check some of my data oriented projects [Here](https://www.kaggle.com/saeedhassan)
 
 <!---
